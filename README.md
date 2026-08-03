@@ -1,2 +1,2 @@
 # dividend-valuation-size-based
-A function reproducing the new dividend-based valuation measure for the stock market from price and total returns. We take the data file price-total.xlsx for size-based portfolios annual price and total returns from Kenneth French data library, 1928--2025, and apply the Python code price-total.py
+A function reproducing the new dividend-based valuation measure for the stock market from price and total returns. We take the data file price-total.xlsx for size-based portfolios annual price and total returns from Kenneth French data library, 1928--2025, and apply the Python code price-total.py The blog post is here: https://my-finance.org/2026/08/01/dividend-based-valuation-measure-for-size-based-portfolios/
